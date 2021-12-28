@@ -1,1 +1,1 @@
-<?php phpinfo(); ?>
+<?php include dirname(__FILE__) . '/page1.html'; ?>
